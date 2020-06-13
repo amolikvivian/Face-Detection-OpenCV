@@ -5,7 +5,7 @@ Face Detection using OpenCV in Python using different methods and models.
 The first method utilizes the pretrained Haar Cascade Classifier - frontalface_default to detect faces.
 Added a small module to detect eyes from given frame in real time using - haarcascade_eye.
 
-Serves as a pirmitive way to detect faces and eyes, simple to understand and help in starting off with Computer Vision projects.
+Serves as a pirmitive way to detect faces and eyes, simple to understand and helps in starting off with Computer Vision projects.
 
 ## Caffe Model
 Caffe is a Deep Learning Framework developed by Berkeley AI Research (BAIR). It is widely used for detection in Computer Vision and
